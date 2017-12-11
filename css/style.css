@@ -1,3 +1,6 @@
+.container{
+border:
+}
 h1{
 text-align: center;
 
@@ -21,7 +24,7 @@ color:burlywood;
 margin-left: 5%;
 }
 .about h4{
-  margin-left: 5%;
+margin-left: 5%;
 padding-top: 5%
 }
 .about h6{
