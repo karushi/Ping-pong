@@ -5,7 +5,28 @@ text-align: center;
 }
 .jumbotron{
   background-color: burlywood;
-  width:60%;
+  width:80%;
   height:40%;
-  margin-left:20%;
+
+}
+.about{
+  background-color: #00FFFF;
+  width:60%;
+  height:100%
+
+}
+
+.about p{
+color:burlywood;
+margin-left: 5%;
+}
+.about h4{
+  margin-left: 5%;
+padding-top: 5%
+}
+.about h6{
+  margin-left: 5%;
+}
+.about2{
+  width:60%;
 }
