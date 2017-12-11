@@ -1,41 +1,11 @@
-.jumbotron{
-  background-color:blue;
-}
-img{
-width: 250px;
-  height:200px;
-  float: left;10px;
-}
-p {
- color: black;
-}
+h1{
+text-align: center;
 
-a {
-  color: brown;
+
 }
-.author{
-  color: blue;
-  }
-  h5{
-    color: blue;
-  }
-.title{
-  color: blue;
-}
-body{
-  background-color: grey;
-}
-.footer{
-  background-color: blue;
-  padding-top: 40px;
-  border: 2px solid #black;
-}
-.imporntant{
-  float: left;
-}
-.footer p{
-  text-align: center;
-}
-.footer h6{
-  text-align: center;
+.jumbotron{
+  background-color: burlywood;
+  width:60%;
+  height:40%;
+  margin-left:20%;
 }
