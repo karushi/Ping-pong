@@ -1,5 +1,5 @@
 .container{
-border:
+  border: 1px solid #000;
 }
 h1{
 text-align: center;
@@ -16,6 +16,7 @@ text-align: center;
   background-color: #00FFFF;
   width:60%;
   height:100%
+
 }
 
 .about p{
@@ -23,7 +24,7 @@ color:burlywood;
 margin-left: 5%;
 }
 .about h4{
-margin-left: 5%;
+  margin-left: 5%;
 padding-top: 5%
 }
 .about h6{
