@@ -29,4 +29,4 @@ If any errors occcur, please do not hesitate to reach me at karuship@gmail.com
 
 License:
 
-Copyright (c) {2017}[pauline
+Copyright (c) {2017}[pauline]
