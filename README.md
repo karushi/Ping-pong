@@ -1,10 +1,10 @@
-#Ping-Pong
+Ping-Pong
 
-#A Math Game, 2017
+A Math Game, 2017
 
-#By pauline karushi
+By pauline karushi
 
-#Description:
+Description:
 
 Enter your favourite number and Ping Pong will count from one to your favourite number with the following exceptions:
 
@@ -29,4 +29,4 @@ If any errors occcur, please do not hesitate to reach me at karuship@gmail.com
 
 License:
 
-#Copyright (c) {2017}[pauline]
+Copyright (c) {2017}[pauline]
